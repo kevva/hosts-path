@@ -1,0 +1,30 @@
+{
+  "name": "hosts-path",
+  "version": "0.0.0",
+  "description": "Get the path to the hosts file",
+  "license": "MIT",
+  "repository": "kevva/hosts-path",
+  "author": {
+    "email": "kevinmartensson@gmail.com",
+    "name": "Kevin Martensson",
+    "url": "github.com/kevva"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "etc",
+    "hosts",
+    "path"
+  ],
+  "devDependencies": {
+    "ava": "^0.0.4",
+    "path-exists": "^1.0.0"
+  }
+}
