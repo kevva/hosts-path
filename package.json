@@ -1,6 +1,6 @@
 {
   "name": "hosts-path",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get the path to the hosts file",
   "license": "MIT",
   "repository": "kevva/hosts-path",
