@@ -13,7 +13,7 @@
     "node": ">=0.10.0"
   },
   "scripts": {
-    "test": "node test.js"
+    "test": "ava"
   },
   "files": [
     "index.js"
@@ -24,7 +24,7 @@
     "path"
   ],
   "devDependencies": {
-    "ava": "^0.0.4",
-    "path-exists": "^1.0.0"
+    "ava": "*",
+    "path-exists": "^2.1.0"
   }
 }
